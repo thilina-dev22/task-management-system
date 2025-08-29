@@ -1,5 +1,13 @@
 node_modules/
-.env
+
 dist/
+
 build/
+
 *.log
+
+config.bat
+
+temp_auto_push.bat
+
+temp_interactive_push.bat
